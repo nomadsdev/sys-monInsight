@@ -14,7 +14,7 @@ This project is a Python-based system monitoring and analysis tool designed to t
  
    ```bash 
    git clone https://github.com/nomadsdev/sys-monInsight.git 
-   cd system-monitoring-tool 
+   cd sys-monInsight
    ``` 
  
 2. **Install Dependencies** 
